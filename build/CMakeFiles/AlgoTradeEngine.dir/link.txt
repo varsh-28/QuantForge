@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/AlgoTradeEngine.dir/link.d CMakeFiles/AlgoTradeEngine.dir/src/main.cpp.o CMakeFiles/AlgoTradeEngine.dir/src/MarketDataClient.cpp.o CMakeFiles/AlgoTradeEngine.dir/src/Strategy.cpp.o CMakeFiles/AlgoTradeEngine.dir/src/TradingClient.cpp.o -o AlgoTradeEngine  /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libcurl.so

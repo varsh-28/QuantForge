@@ -1,0 +1,3 @@
+/home/varsh/AlgoTradeEngine/build/CMakeFiles/AlgoTradeEngine.dir
+/home/varsh/AlgoTradeEngine/build/CMakeFiles/edit_cache.dir
+/home/varsh/AlgoTradeEngine/build/CMakeFiles/rebuild_cache.dir

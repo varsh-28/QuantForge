@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/varsh/AlgoTradeEngine/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
